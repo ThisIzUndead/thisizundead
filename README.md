@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisizundead" alt="thisizundead" /></a> </p>
 
-- 🔭 I’m currently working on Myself Website..Coming Soon...
-
+- 🔭 I’m currently working on Myself...
 - 📖 I’m currently learning **More About React.js, Javascript and Web Frameworks**
 
 - 💬 Ask me about **Python, Linux, E-Hacking,**
