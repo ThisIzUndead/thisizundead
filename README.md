@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisizundead&label=Profile%20views&color=0e75b6&style=flat" alt="thisizundead" /> </p>
 
-- 🔭 I’m currently working on [Myself...](Coming Soon...)
+- 🔭 I’m currently working on [Myself...]
 
 - 📖 I’m currently learning **More About React.js, Javascript and Web Frameworks**
 
