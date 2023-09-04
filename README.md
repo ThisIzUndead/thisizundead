@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisizundead&show_icons=true&locale=en&layout=compact" alt="thisizundead" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisizundead&show_icons=true&locale=en" alt="thisizundead" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisizundead&" alt="thisizundead" /></p>
